@@ -436,7 +436,7 @@ local DiscordLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/gi
  local btns = serv:Channel("Others Script") 
  btns:Label("Cre Hub: Grabiel Ynu") 
 btns:Button("Universal, Test Hub", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Palosui/TestHub/main/Gui"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ginchao/TestHub/main/Universal"))()
 end)
  btns:Button("AUT OLD UNIVERSE", function() 
  loadstring(game:HttpGet("https://raw.githubusercontent.com/ginchao/OUT-OLD-UNIVERSE/main/UNIVERSE%20OLD" ,true))() 
