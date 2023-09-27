@@ -438,6 +438,8 @@ local DiscordLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/gi
 btns:Button("Universal, Test Hub", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ginchao/TestHub/main/Universal"))()
 end)
+  btns:Button("Viet Nam Piece", function()   loadstring(game:HttpGet('https://raw.githubusercontent.com/ginchao/Viet-Nam-Piece/main/Beta'))()    
+    end)  
  btns:Button("AUT OLD UNIVERSE", function() 
  loadstring(game:HttpGet("https://raw.githubusercontent.com/ginchao/OUT-OLD-UNIVERSE/main/UNIVERSE%20OLD" ,true))() 
  end) 
